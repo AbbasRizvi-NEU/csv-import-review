@@ -1,0 +1,5 @@
+sku,name,quantity
+DESK-01,Demo desk,4
+LAMP-01,Demo lamp,7
+CHAIR-01,Demo chair,-2
+LAMP-01,Duplicate lamp,3
